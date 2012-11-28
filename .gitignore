@@ -9,3 +9,5 @@ example.nav
 example.aux
 example.out
 example.toc
+example.fdb_latexmk
+example.fls
