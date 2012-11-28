@@ -1,0 +1,12 @@
+A simplistic style for beamerposter
+
+For documentation about beamerposter see:
+http://www-i6.informatik.rwth-aachen.de/~dreuw/latexbeamerposter.php
+
+To get started you can simply compile the example poster by running 'make' on
+the command line. If this does not work, you can also run
+'pdflatex example.tex' instead.
+
+For a few example posters created with (slight modificiations of) this style, see:
+http://www.pletscher.org/
+-> and then download the posters for the publications.
